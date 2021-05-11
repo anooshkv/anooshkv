@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anooshkv
+- 👋 Hi, I’m Anoosh
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on solving real world problems
